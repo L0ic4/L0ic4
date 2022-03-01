@@ -1,4 +1,4 @@
-![Cover] (https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/loica.jpg)
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 ### Hi there 👋
 
 <!--
