@@ -1,3 +1,4 @@
+![Cover] (https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/loica.jpg)
 ### Hi there 👋
 
 <!--
