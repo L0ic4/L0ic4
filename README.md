@@ -1,5 +1,4 @@
 ![Cover](https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/loica.jpg)
-### Hi there 👋
 
 <!--
 **NiceGuyMe/NiceGuyMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NiceGuyMe)
+### Hi there 😇
