@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NiceGuyMe)
 ### Hi there 😇
+https://www.codewars.com/users/NiceGuyMe/badges/large
