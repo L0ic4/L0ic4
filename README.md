@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### Hi there 😇
 ![alt text](https://www.codewars.com/users/NiceGuyMe/badges/large)
 
-![alt text](https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/wave.svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
