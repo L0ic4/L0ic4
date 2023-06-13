@@ -1,4 +1,5 @@
-![alt tag](https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/wave (1).svg)
+![alt tag](img/wave (1).svg)
+
 **NiceGuyMe/NiceGuyMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
