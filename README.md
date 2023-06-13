@@ -1,20 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Hello&fontSize=90&fontAlignX=10&height=200)
+![header](./img/banner.png)
 
-**NiceGuyMe/NiceGuyMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
+👉 I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Github stats](https://github-readme-stats.vercel.app/api?username=NiceGuyMe)
-### Hi there 😇
-![alt text](https://www.codewars.com/users/NiceGuyMe/badges/large)
+- I am an IT student with a passion for software development. 
+- I am proficient in Next, and Spring Boot, and I am always eager to learn new technologies. 
+- I am a team player and I am always willing to help others. I am also a creative thinker and I am always looking for new ways to solve problems.
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+## 💫  My goal
+
+ I am looking for opportunities to use my skills and knowledge to make a positive impact on the world. I am also looking for opportunities to learn and grow as a developer.
+
+> ✨ If you are looking for a talented and motivated developer, I would be a great addition to your team. ✨
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,spring,nextjs,aws" />
+  </a>
+</p>
+
+![image](./img/wave.svg)
