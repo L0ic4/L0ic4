@@ -1,4 +1,4 @@
-![Cover](https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/loica.jpg)
+![Cover](https://github.com/NiceGuyMe/NiceGuyMe/blob/main/img/wave.svg)
 
 <!--
 **NiceGuyMe/NiceGuyMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
