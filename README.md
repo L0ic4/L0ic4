@@ -13,11 +13,11 @@
 > ✨ If you are looking for a talented and motivated developer, I would be a great addition to your team. ✨
 
 
-## 💻 Tech
+## 💻 Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,spring,react,nextjs,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,postgres,spring,react,nextjs,aws,docker,github,idea,vscode,postman" />
   </a>
 </p>
 
