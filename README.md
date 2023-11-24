@@ -21,13 +21,4 @@
   </a>
 </p>
 
-## 📞 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/loica-f-a4151b221">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-
 ![image](./img/wave.svg)
