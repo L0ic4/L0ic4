@@ -2,8 +2,9 @@
 
 ## 🚀 About me
 
-- I am an IT student with a passion for software development. 
-- I am proficient in Next, and Spring Boot, and I am always eager to learn new technologies. 
+- I am an IT student passionate about software development. 
+- I am proficient in Next, and Spring Boot.
+- I am always eager to learn new technologies. 
 - I am a team player and I am always willing to help others. I am also a creative thinker and I am always looking for new ways to solve problems.
 
 ## 💫 My goal
