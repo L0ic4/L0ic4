@@ -24,8 +24,18 @@
 
 ## Stats 〽️
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0ic4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0ic4&layout=compact&hide=html" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=L0ic4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" />
+    </td>
+  </tr>
+</table>
 
- ![Loica's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0ic4&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&rank_icon=github)
 
 ![image](./img/wave.svg)
