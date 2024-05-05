@@ -24,7 +24,8 @@
 </p>
 
 ## Stats 〽️
- 
+![image](https://badge.mediaplus.ma/colorfulwaves/lny-tina?1337Badge=off&UM6P=off) ![image](https://github-readme-stats.vercel.app/api?username=L0ic4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
 <table>
   <tr>
     <td>
@@ -32,13 +33,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0ic4&layout=compact&hide=html" />
       </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=L0ic4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" />
-    </td>
-   <td>
-     <img src="https://badge.mediaplus.ma/colorfulwaves/lny-tina?1337Badge=off&UM6P=off"/>
-   </td>
-  </tr>
 </table>
 
 
