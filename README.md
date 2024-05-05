@@ -1,7 +1,7 @@
 ![header](./img/banner2.png)
 
 ## 🚀 About me
-![image](https://www.codewars.com/users/NiceGuyMe/badges/micro) ![image](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge)
+![image](https://www.codewars.com/users/NiceGuyMe/badges/micro) ![image](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) ![image](https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png)
 - I am an IT student passionate about software development. 
 - I am proficient in Next, and Spring Boot.
 - I am always eager to learn new technologies. 
