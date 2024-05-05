@@ -1,7 +1,7 @@
 ![header](./img/banner2.png)
 
 ## 🚀 About me
-<img src="https://www.codewars.com/users/NiceGuyMe/badges/micro" alt="image" width="50"/> <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="image" width="50"/> <img src="https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png" alt="image" width="50"/>
+<img src="https://www.codewars.com/users/NiceGuyMe/badges/micro" alt="image"/> <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="image"/> <img src="https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png" alt="image" width="50"/>
 
 - I am an IT student passionate about software development. 
 - I am proficient in Next, and Spring Boot.
