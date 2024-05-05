@@ -1,4 +1,4 @@
-![header](./img/banner.png)
+![header](./img/banner2.png)
 
 ## 🚀 About me
 
