@@ -1,7 +1,7 @@
 ![header](./img/banner2.png)
 
 ## 🚀 About me
-https://www.codewars.com/users/NiceGuyMe/badges/micro
+![image](https://www.codewars.com/users/NiceGuyMe/badges/micro)
 - I am an IT student passionate about software development. 
 - I am proficient in Next, and Spring Boot.
 - I am always eager to learn new technologies. 
