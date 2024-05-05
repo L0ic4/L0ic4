@@ -35,6 +35,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=L0ic4&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff" />
     </td>
+   <td>
+     [![<lny-tina>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/lny-tina)](https://github.com/oakoudad/badge42)
+   </td>
   </tr>
 </table>
 
