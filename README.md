@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+,+I+am+Loica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FB7AB1&width=435&lines=Crafting+code+with+purpose+and+passion.)](https://git.io/typing-svg)
+
+![header](./img/banner2.png)
 
 ## 🚀 About me
 <img src="https://www.codewars.com/users/NiceGuyMe/badges/micro" alt="image"/> <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="image"/> <img src="https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png" alt="image" width="50"/>
