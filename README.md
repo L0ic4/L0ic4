@@ -1,4 +1,4 @@
-![header](./img/banner2.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+,+I+am+Loica)](https://git.io/typing-svg)
 
 ## 🚀 About me
 <img src="https://www.codewars.com/users/NiceGuyMe/badges/micro" alt="image"/> <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge" alt="image"/> <img src="https://hei.school/wp-content/uploads/2022/09/cropped-Logo-e1662790239183.png" alt="image" width="50"/>
